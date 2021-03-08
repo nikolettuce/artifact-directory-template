@@ -1,5 +1,13 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Snake Classification using Neural-Backed Decision Trees
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Many advanced algorithms, specifically deep learning models, are considered “black box” to human understanding.
+Transparency to intrprete such models has become a key obstacle which prevents such algorithms from being put into 
+practical use. Although algorithms, such as GradCam, are invented to provide
+visual explanations from deep networks via gradient-based localization, they do not provide details of how the models
+reached their final decision step by step in detail. The goal of this project is to provide more interpretability 
+to Convolutional Neural Networks (CNN) models by combining Grad-CAM with Neural Backed Decision Trees (NBDTs), 
+and provide visual explanations with detailed decision making process of CNN models. This project
+demonstrates the potential and limitations of jointly applying Grad-CAM and NBDTs on snake classification.
+
